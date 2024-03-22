@@ -1,0 +1,4 @@
+{
+    "DSIpblocklist": {"URL":"https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.json"},
+    "DStorbulkexitlist": {"URL":"https://check.torproject.org/torbulkexitlist"}
+}
